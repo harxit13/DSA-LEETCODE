@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harxit13/DSA-LEETCODE/tree/master/0455-assign-cookies) |
+| [0575-distribute-candies](https://github.com/harxit13/DSA-LEETCODE/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harxit13/DSA-LEETCODE/tree/master/0455-assign-cookies) |
+## Hash Table
+|  |
+| ------- |
+| [0575-distribute-candies](https://github.com/harxit13/DSA-LEETCODE/tree/master/0575-distribute-candies) |
 <!---LeetCode Topics End-->
