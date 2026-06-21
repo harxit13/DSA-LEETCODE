@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/harxit13/DSA-LEETCODE/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/harxit13/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -21,5 +22,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/harxit13/DSA-LEETCODE/tree/master/0202-happy-number) |
 | [0575-distribute-candies](https://github.com/harxit13/DSA-LEETCODE/tree/master/0575-distribute-candies) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/harxit13/DSA-LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
